@@ -8,4 +8,3 @@ In that Project I did how to analyze the music playlist database. In that datase
   * PgAdmin4
   
 Schema- Music Store Database
-![Schema](SQL Music_Store Data Analysis Project/MusicDatabaseSchema.png)
